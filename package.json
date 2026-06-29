@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MaiHuYugi/NodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/MaiHuYugi/NodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaiHuYugi/NodeJS.git"
+  },
+  "license": "ISC",
+  "author": "Yugi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
